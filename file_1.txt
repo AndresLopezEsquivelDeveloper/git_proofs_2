@@ -1,0 +1,6 @@
+AndresLopezEsquivel/git_proofs_2 was forked from 
+AndresLopezEsquivelDeveloper/git_proofs_2. 
+
+This is a test file which will be helpful
+to experience how it is to contribute to
+open-source projects. 
